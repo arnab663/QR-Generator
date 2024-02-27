@@ -4,4 +4,4 @@
 - This is made with HTML, CSS nad JS
 
 ## Check it out clicking below : 
-[Link Text] (https://generate-the-qr.netlify.app/)
+https://generate-the-qr.netlify.app/
